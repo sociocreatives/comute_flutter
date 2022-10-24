@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "46721062555",
+    "firebase_url": "https://comuter-bcf75-default-rtdb.firebaseio.com",
+    "project_id": "comuter-bcf75",
+    "storage_bucket": "comuter-bcf75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46721062555:android:94322967d8d45d1e3b183e",
+        "android_client_info": {
+          "package_name": "com.example.comute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46721062555-7lhp6bpvic3e8900svf6nkquirotsq0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.comute",
+            "certificate_hash": "f621e01adc6799c683b3f3f9c6b9301413837637"
+          }
+        },
+        {
+          "client_id": "46721062555-h690id3mrdu9jher0albno113rr8ihv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv5j61_c05X-mvufQeMJGmoH6WyPURUOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46721062555-h690id3mrdu9jher0albno113rr8ihv3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "46721062555-39hks4j8ih342bcis3ntmjbag4qhtskc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.comute"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
